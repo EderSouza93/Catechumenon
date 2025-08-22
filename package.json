@@ -1,6 +1,6 @@
 {
   "name": "catechumenon",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "server.ts",
   "author": "Eder Souza",
   "license": "MIT",
